@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Thomas D",
+      "position": "Designer"
+    },
+    {
+      "id": 2,
+      "name": "Smith jane",
+      "position": "Mobile App Developer"
+    },
+    {
+      "id": 3,
+      "name": "Saad Nazir",
+      "position": "Mean Stack Developer"
+    },
+    {
+      "id": 4,
+      "name": "John H",
+      "position": "Technician"
+    },
+    {
+      "id": 5,
+      "name": "Alison A",
+      "position": "Full stack DEv"
+    }
+  ]
+}
